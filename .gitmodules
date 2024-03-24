@@ -1,3 +1,6 @@
 [submodule "dev_ts"]
 	path = dev_ts
 	url = https://github.com/FPGASystemsLab/dev_touchscreen
+[submodule "dev_sd"]
+	path = dev_sd
+	url = https://github.com/FPGASystemsLab/dev_sd
